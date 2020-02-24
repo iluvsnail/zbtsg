@@ -1,0 +1,16 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: hs-tool
+redis:
+  host:
+    ip: 192.168.1.69
+    port: 16378
+mail:
+  host: smtp.sina.com
+  port: 25
+  user: test_gfire
+  pass: xujiao0923
+  from: test_gfire@sina.com
+  ssl: false
